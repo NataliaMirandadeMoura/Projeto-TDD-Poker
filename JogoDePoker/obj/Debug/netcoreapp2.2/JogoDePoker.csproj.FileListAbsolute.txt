@@ -1,0 +1,13 @@
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\JogoDePoker.deps.json
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\JogoDePoker.runtimeconfig.json
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\JogoDePoker.runtimeconfig.dev.json
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\JogoDePoker.dll
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\bin\Debug\netcoreapp2.2\JogoDePoker.pdb
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\obj\Debug\netcoreapp2.2\JogoDePoker.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\obj\Debug\netcoreapp2.2\JogoDePoker.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\obj\Debug\netcoreapp2.2\JogoDePoker.AssemblyInfo.cs
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\obj\Debug\netcoreapp2.2\JogoDePoker.dll
+C:\Users\natal\source\repos\JogoDePoker\JogoDePoker\obj\Debug\netcoreapp2.2\JogoDePoker.pdb
